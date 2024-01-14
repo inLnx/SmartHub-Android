@@ -8,15 +8,15 @@ Open Time Hub is an open-source alternative to the Google Nest Hub. This project
 ## Features
 |Feature			|Function			|Status				|
 -------------|--------------|------------|
-|Time				|Shows the time with realtime updates| stable|
+|Time|Shows the time with real-time updates| stable|
 |Current weather|Shows the current weather with an icon| stable|
 |Forecast|Shows the weather in +3 / +6 / +9 / etc. hours | beta|
-|Music|Plays and controls music|planned|
-|Calendar|Google Calendar integration| planned|
-|Phone Integration|KDE / Zorin connect integration| planned|
+|Material Design|In progress|
+|Music|Plays and controls music |Alpha|
+|Calendar| Calendar integration| planned|
 
 # Development
-As for coding, I am inexperienced and would appreciate it, if you, if you have experience with the Flutter framework, could contribute to this project, by just taking a quick look at the code and make some changes for the better.
+As for coding, I am inexperienced and would appreciate it, if you, if you have experience with the Flutter framework, could contribute to this project.
 
 ## License
 The project is licensed under the MIT-License.
