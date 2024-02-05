@@ -5,7 +5,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://inlnx.rf.gd)
 
-Open Time Hub is an open-source alternative to the Google Nest Hub. This project is still in its early stages and doesn't have as many features as Google's Nest Hub, but is under constant development and its feature set expands every day.
+I was looking to turn my old tablet into a smart display. When I couldn't find anything for it I had to make it my self. 
 ## Features
 |Feature			|Function			|Status				|
 -------------|--------------|------------|
