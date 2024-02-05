@@ -2,7 +2,7 @@
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://opensource.org/)
 [![Generic badge](https://img.shields.io/badge/made%20with-flutter-blue.svg)](https://flutter.dev/)
 [![Generic badge](https://img.shields.io/badge/made%20with-codeobviously-blue.svg)](https://kotlin.dev/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]
+[![Maintenance](https://img.shields.io/badge/Maintained-slowly-orange.svg)
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://inlnx.rf.gd)
 
 I was looking to turn my old tablet into a smart display. When I couldn't find anything for it I had to make it my self. 
