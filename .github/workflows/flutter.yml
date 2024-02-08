@@ -1,5 +1,20 @@
-name: Flutter CI
+            - name: Flutter Check
 
+# uses: AcmeSoftwareLLC/flutter-build@aa7592b3d5b59c269674fc6789cab5658f88a104
+  uses: AcmeSoftwareLLC/flutter-build@v1.0.1
+  with:
+    # Platform
+    platform: 
+    # Build Name
+    build-name: # optional
+    # Build Number
+    build-number: # optional
+    # Base Href
+    base-href: # optional
+    # Dart Define File
+    dart-define-file: # optional
+    # Working Directory
+    working-directory: # optional, default is .
 on:
   push:
     branches:
